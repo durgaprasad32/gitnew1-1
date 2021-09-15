@@ -1,0 +1,15 @@
+docker engine
+a cli
+b api
+c server
+
+server again contains
+ contianer runtime
+ volumes 
+ networks
+
+
+kubernetes uses something called dockershim
+which is used by kebrenetes to communicate with the docker engine and this dockershim is what is being depricated
+
+It will save lot of resources like ram,cpu and storage
